@@ -1,6 +1,6 @@
 ### Hi, my name is Enzo Fonseca
 
-- 🔭 I work as a developer at B2ML Sistemas with Angular language.
+- 🔭 I work as a developer at NTT Data with Angular language.
 - 🌱 Studying React
 - 📫 How to reach me: enzofonseca44@gmail.com
 
