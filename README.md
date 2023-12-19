@@ -1,6 +1,6 @@
 ### Hi, my name is Enzo Fonseca
 
-- 🔭 I work as a developer at NTT Data with Angular language.
+- 🔭 I work as a developer at SulAmérica with Ionic framework.
 - 🌱 Studying React
 - 📫 How to reach me: enzofonseca44@gmail.com
 
