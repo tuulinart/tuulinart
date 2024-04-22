@@ -1,6 +1,6 @@
 ### Hi, my name is Enzo Fonseca
 
-- 🔭 I work as a developer at SulAmérica with Ionic framework.
+- 🔭 I work as a developer at Extreme Digital with Angular framework.
 - 🌱 Studying React
 - 📫 How to reach me: enzofonseca44@gmail.com
 
